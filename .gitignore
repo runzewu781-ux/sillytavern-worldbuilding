@@ -1,17 +1,13 @@
-# Obsidian 库配置中含本机密钥及私钥。
+# 只跟踪世界观工程和仓库自身的说明。
+/*
+!/.gitignore
+!/README.md
+!/世界观工程/
+
+# Obsidian 本机配置包含插件密钥和私钥。
 /世界观工程/.obsidian/
 
-# 酒馆的本地账号、聊天、凭据、依赖和运行时文件。
-/SillyTavern/.git/
-/SillyTavern/data/
-/SillyTavern/node_modules/
-/SillyTavern/backups/
-/SillyTavern/config.yaml
-/SillyTavern/config.conf
-/SillyTavern/.env*
-/SillyTavern/certs/
-
-# 常见凭据和本地缓存。
+# 常见凭据与本机缓存。
 **/secrets.json
 **/cookie-secret.txt
 **/.env
