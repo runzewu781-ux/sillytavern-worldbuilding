@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"fcf7b3ff1ad04d4b","type":"file","file":"00 创作中枢/世界观总纲.md","x":0,"y":0,"width":500,"height":440},
+		{"id":"f1279ad1fa0547ca","type":"file","file":"00 创作中枢/创作原则.md","x":600,"y":0,"width":500,"height":440},
+		{"id":"4f82918109484f38","type":"file","file":"00 创作中枢/待解决问题.md","x":1200,"y":0,"width":500,"height":440}
+	],
+	"edges":[
+		{"id":"1207d4f465e144c0","fromNode":"fcf7b3ff1ad04d4b","fromSide":"right","toNode":"f1279ad1fa0547ca","toSide":"left"},
+		{"id":"21612aa80c9d4285","fromNode":"fcf7b3ff1ad04d4b","fromSide":"right","toNode":"4f82918109484f38","toSide":"left"}
+	]
+}

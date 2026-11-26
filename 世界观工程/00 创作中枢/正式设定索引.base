@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.inFolder("02 正式设定")
+    - file.ext == "md"
+views:
+  - type: table
+    name: 正式设定
+    order:
+      - file.name
+      - 状态
